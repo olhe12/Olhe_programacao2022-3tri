@@ -56,3 +56,8 @@ p {
 	color: blue;
 	text-decoration: underline;
 }
+
+nav li {
+    display: inline;
+    margin-right: 15px;
+}
