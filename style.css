@@ -58,7 +58,7 @@ p {
 }
 
 nav li {
-    font-size: 50px;
-    text-decoration: uppercase;
+    display: inline;
+    margin-right: 40%;;
 }
 
