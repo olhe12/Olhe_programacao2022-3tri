@@ -56,3 +56,6 @@ p {
 	color: blue;
 	text-decoration: underline;
 }
+ nav {
+    display: inline;
+ }
