@@ -58,10 +58,5 @@ p {
 }
 
 nav li {
-    display: inline;
-    margin-right: 15px;
-}
-
-nav a {
-    color: purple;
+    margin: 0 0 0 15px;
 }
