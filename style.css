@@ -62,3 +62,6 @@ nav li {
     margin-right: 40%;;
 }
 
+nav a {
+    color: red;
+}
