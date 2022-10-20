@@ -61,3 +61,7 @@ nav li {
     display: inline;
     margin-right: 15px;
 }
+
+nav a {
+    color: purple;
+}
