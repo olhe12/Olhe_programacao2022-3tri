@@ -25,6 +25,9 @@ p {
     position: absolute;
 }
 
+.itens {
+    color: cyan;
+}
 
  nav li {
     display: inline;
