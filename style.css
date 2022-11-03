@@ -5,11 +5,13 @@ body {
 .texto-principal {
     margin-right: 20%; 
     padding: 50px;
+    text-align: justify;
+
 }
 
 h1, h2 {
     color: #D3D3D3;
-    text-align: center;
+    text-align: justify;
 }
 
 p {
@@ -30,5 +32,6 @@ p {
 
  .lista {
     padding: 50px;
+    text-align: justify;
 
  }
