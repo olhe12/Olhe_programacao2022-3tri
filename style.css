@@ -1,12 +1,13 @@
 body {
     background-color: #6495ED;
+
 }
 
 
 .texto-principal {
     display: block;
-    margin: 10px 0 10px 0;
-    padding-top: 20px;
+    margin: 20px 0 10px 0;
+    padding: 30px;
     border: 2px pink solid;
 }
 
@@ -17,13 +18,18 @@ h1, h2 {
 }
 
 header {
-    padding: 20px;
+    padding:  20px;
+
+}
+
+#logo {
+    width: 15%;
 }
 
 nav {
     position: absolute;
     top: 90px;
-    right: 20px;
+    right: 10px;
 }
 
 nav li {
@@ -40,12 +46,29 @@ nav a {
 
 .lista {
     display: block;
-    margin: 10px 0 10px 0;
-    padding-top: 20px;
-    border: 2px pink solid;
+    margin: 20px 0 10px 0;
+    padding: 30px;
+    border: 2px pink dashed;
+    border-radius: 25px;
 }
 
 .itens {
     font-style:  italic;
 }
 
+.participantes li {
+    display: inline-block;
+    border-top: 10px double red;
+    border-bottom: 10px double blue;
+    border-left: 10px double green;
+    border-right: 10px double yellow;
+    border-radius: 10px;
+}
+
+.formadores, .seedlogo {
+    width: 35%;
+}
+
+.alura {
+    width: 20%; 
+}
